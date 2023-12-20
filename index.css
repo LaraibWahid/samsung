@@ -1,0 +1,169 @@
+.nav-bar ul li{
+    display: inline-block;
+    list-style-type: none;
+}
+.logo{
+    margin: 5px auto;
+}
+.nav-bar{
+    margin-top: 5px;
+    margin-bottom: 10px;
+    display: inline-block;
+text-decoration: none;
+}
+.content1{
+    margin: 20px 0px;
+}
+.con-1{
+    position: relative;
+    height: 500px;
+    
+}
+.text1{
+    position: absolute;
+    top: 190px;
+    left: 50px;
+    color: white;
+}
+.heading{
+   margin: 10px 400px;
+   width: 450px;
+}
+.wrapper{
+    width: 100%;
+    height: 500px;
+    display: flex;
+}
+.bigdiv{
+    position: relative;
+    width: 50%;
+    height: 500px;
+    margin: 8px 16px;
+    border-radius: 2px solid lightgrey;
+}
+.textbd{
+    position: absolute;
+    bottom: 5px;
+    left: 20px;
+}
+.right{
+    display: flex;
+    width: 50%;
+}
+.card1-2{
+    /* display: flex; */
+    width: 50%;
+
+}
+.c1{
+    position: relative;
+    width: 25%;
+    top: 5px;
+    margin: 8px 16px;
+    border-radius: 2px solid lightgrey;
+}
+
+.t1{
+    position: absolute;
+    top: 0px;
+    left: 5px;
+}
+.c2{
+ position: relative;
+ width: 25%;
+ margin: 8px 16px;
+ border-radius: 2px solid lightgrey;
+}
+.t2{
+    position: absolute;
+    top: 0px;
+}
+.card3-4{
+    width: 50%;
+}
+.c3{
+    margin: 8px 16px;
+    width: 25%;
+    border-radius: 2px solid lightgrey;
+}
+.c4{
+    margin: 8px 16px;
+    position: relative;
+    width: 25%;
+    border-radius: 2px solid lightgrey;
+}
+.t4{
+    position: absolute;
+    bottom: 5px;
+    
+}
+.hea1{
+    width: 400px;
+    margin: 50px 500px;
+}
+.mcimg{
+    width: 500px;
+    height: 500px;
+    align-items: center;
+    border: 2px solid lightgrey;
+}
+.mc-text{
+    margin-left: 500px;
+    
+}
+.btn{
+    background-color: black;
+    color: white;
+    
+}
+.content2{
+    position: relative;
+}
+.c2t{
+    position: absolute;
+    top: 70px;
+    left: 650px;
+    font-size: x-large;
+}
+.c2t2{
+    position: absolute;
+    bottom: 50px;
+    left: 650px;
+    bottom: 200px;
+}
+.btn2{
+    background-color: black;
+    color: white;
+    
+}
+.hea2{
+    margin: 50px 500px;
+    width: 300px;
+}
+.homeappl{
+    border: 2px solid lightgray;
+}
+.hea3{
+    margin: 30px 500px;
+    width: 300px;
+}
+.btn3{
+    background-color: black;
+    color: white;
+}
+.sustainability{
+    position: relative;
+}
+.st1{
+    position: absolute;
+    top: 0px;
+    left: 30px;
+    color: white;
+    font-size: x-large;
+}
+.st2{
+    position: absolute;
+    color: white;
+    bottom: 50px;
+    right: 10px;
+}
